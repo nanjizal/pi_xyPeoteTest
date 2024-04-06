@@ -1,7 +1,6 @@
 package;
 
 import pi_xy.imageAbstracts.PeoteTexture;
-import haxe.CallStack;
 
 import lime.app.Application;
 import lime.ui.Window;
